@@ -20,8 +20,8 @@ const main = async() =>{
 
   waveCount = await WaveContract.getTotalWaveCounts();
 
-  let wavedPerson;
-  wavedPerson = await WaveContract.getAddressofWavedPerson();
+  let wavedUserAddresses;
+  wavedUserAddresses = await WaveContract.getAllUserAddress();
 }
 
 

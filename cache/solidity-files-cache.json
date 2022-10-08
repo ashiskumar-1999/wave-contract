@@ -37,8 +37,8 @@
       ]
     },
     "D:\\Projects\\my-wave-portal\\contracts\\WavePortal.sol": {
-      "lastModificationDate": 1663497379026,
-      "contentHash": "59886cbb6ba4dc0147db18ceeb46051e",
+      "lastModificationDate": 1664091654761,
+      "contentHash": "f61894b667b5488b983259e6821d1089",
       "sourceName": "contracts/WavePortal.sol",
       "solcConfig": {
         "version": "0.8.4",
